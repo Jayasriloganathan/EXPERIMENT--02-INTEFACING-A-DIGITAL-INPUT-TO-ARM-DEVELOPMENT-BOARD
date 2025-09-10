@@ -144,11 +144,9 @@ void Error_Handler(void)
 ```
 ## Output  :
  
+ <img width="512" height="686" alt="Screenshot 2025-09-10 223726" src="https://github.com/user-attachments/assets/f29ce006-f98e-410d-8906-84b81fca6fa7" />
 
- <img width="512" height="686" alt="Screenshot 2025-09-10 223726" src="https://github.com/user-attachments/assets/d8d1340a-d95b-4607-953f-bd146a6a5fc5" />
-
- <img width="511" height="683" alt="Screenshot 2025-09-10 223738" src="https://github.com/user-attachments/assets/b607134f-7758-4f96-9560-185f417d18f0" />
-
+ <img width="511" height="683" alt="Screenshot 2025-09-10 223738" src="https://github.com/user-attachments/assets/1c129c86-f023-4d39-9468-b8a8aa21d12c" />
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
