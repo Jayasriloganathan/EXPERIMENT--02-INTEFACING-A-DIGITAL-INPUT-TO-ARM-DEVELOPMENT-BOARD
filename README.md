@@ -83,10 +83,6 @@ int main(void)
   }
 }
 
-
-
-
-
 void SystemClock_Config(void)
 {
   RCC_OscInitTypeDef RCC_OscInitStruct = {0};
@@ -193,9 +189,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
 
-<img width="373" height="877" alt="Screenshot 2025-09-16 085032" src="https://github.com/user-attachments/assets/1affa011-9c63-4cfa-97a5-9b8de92d2118" />
+![WhatsApp Image 2025-09-16 at 08 49 41_8f5f5745](https://github.com/user-attachments/assets/bad42bec-9caa-460f-b1dc-5423b76f937c)
 
-<img width="380" height="882" alt="Screenshot 2025-09-16 085016" src="https://github.com/user-attachments/assets/6ae94261-a14e-439a-81ff-6758fb4a7935" />
+![WhatsApp Image 2025-09-16 at 08 49 40_bd2a9cfc](https://github.com/user-attachments/assets/fe07a9a8-1a0a-4ef1-a50a-b98b9b35a4cb)
 
 
 ## Result :
